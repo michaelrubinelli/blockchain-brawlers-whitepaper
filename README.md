@@ -108,7 +108,7 @@ That gear was as follows:
 
 ## Promotional Items
 
-There were several items that were given away or used as keys to grant access to sales and promotional activities. The below listed items no longer serve their original purpose and merely maintain sentimental value 
+There were several items that were given away or used as keys to grant access to sales and promotional activities. On occasion as a thank you. The below listed items no longer serve their original purpose and merely maintain sentimental value 
 
  #### [Golden Battletags](https://wax.atomichub.io/explorer/template/bcbrawlers/432795)
  
