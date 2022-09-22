@@ -121,6 +121,8 @@ Below is an accounting of the minimum items you will need to wage war in the squ
 Must Haves:
 (1) NFT Brawler (including but not limited to) - [Mike Yellerbelly](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Artifact&order=asc&schema_name=series1&sort=price&symbol=WAX), [Scotty Wideye](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Common&order=asc&schema_name=series1&sort=price&symbol=WAX), [Barry Greenhorn](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Uncommon&order=asc&schema_name=series1&sort=price&symbol=WAX), [Johnny Butterfinger](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Rare&order=asc&schema_name=series1&sort=price&symbol=WAX), [Colt Tenderfoot](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Epic&order=asc&schema_name=series1&sort=price&symbol=WAX), [Rusty Klutz](https://wax.atomichub.io/market/sale/89934148), [Ric Flair](https://wax.atomichub.io/market/sale/90085842), or any of our [legendary NFT's](https://wax.atomichub.io/market/sale/85365924) that are 1 of 1's. 
 
-## How to Take Part in the PvP Phase
+Players must also assemble a numerical deck consisting of "Deck Cards" numbered 1 through 8. They will also need one Common Attack, one Taunt and one Finisher. 
 
-In order to participate in the PvP modes in Blockchain Brawlers just visit the site play.bcbrawlers.com and from there the onboarding into the user experience is self-explanatory.   
+## Where to Take Part in the PvP Phase
+
+In order to participate in the PvP modes in Blockchain Brawlers just visit the site play.bcbrawlers.com and from there the onboarding into the user experience is self-explanatory. At this time the PvP modes have not formally launched, but can be played via the Open Beta that is running through the end of September. Please refer to this section on how to gain access to that test phase.    
