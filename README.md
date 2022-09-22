@@ -60,12 +60,6 @@ The Crafting Phase began on September 21st, 2022. If a player is in possession o
 The Brawl-o-Seum is effectively a crafting membership key. These limited number of players will be in charge of producing content for the masses that want to enter the game. There are only 1,100 "B-o-S" NFT crafting passes in existence. They come in two levels of rarity. The Diamond version allows for 25 single asset packs to be crafted within a 24 hour window. The Platinum version allows for 10 single asset packs to be crafted a day. To learn more about how the Brawl-o-Seum works and review the level designs that benefit from mutable data, here is a comprehensive [Brawl-o-Seum level design and overview.](https://medium.com/blockchain-brawlers/a-deep-dive-into-brawl-o-seum-leveling-design-740efd3e780a) To understand the user interface flow you can [read this article.](https://medium.com/blockchain-brawlers/blockchain-brawlers-brawl-o-seum-crafting-walkthrough-b0a514046ffb) 
 
 # The PvP Phase
-## Beta Testing
-
-
-
-
-
 There is currently one announced PvP feature in active development at this time. This version of PvP feature utilizes a new card battler mechanic exclusive to Blockchain Brawlers. It was designed and balanced by [Richard Garfield](https://en.wikipedia.org/wiki/Richard_Garfield), the creator of [Magic: The Gathering.](https://en.wikipedia.org/wiki/Magic:_The_Gathering) 
 
 This feature is in varying states of progress and is intended to be live in a full release production environment on October 4th, 2022. 
@@ -75,8 +69,18 @@ The intention of the current PvP feature is akin to traditional esports gaming a
 At some point near the end of 2022 "League Play" and banding of players tied to [ELO/MMR rankings](https://en.wikipedia.org/wiki/Elo_rating_system) will be in place and drive the activities of global competitions that will be streamed and come replete with top tier prizing. 
 
 For a gameplay rules overview [go here](https://medium.com/blockchain-brawlers/gameplay-explained-how-does-the-pvp-card-game-designed-by-richard-garfield-work-e9b83e1c407e). For a video tutorial of how to play [go here](https://medium.com/blockchain-brawlers/blockchain-brawlers-summer-block-party-week-2-brings-the-heat-with-pvp-gameplay-first-look-d9f714b2237f). 
+To understand all of the assets required to actually compete in the PvP portion of this game be sure to read over the PvP Asset Require section down below.
 
-To understand all of the assets required to actually compete in the PvP portion of this game be sure to read over the PvP Asset Require section down below. 
+## Beta Testing
+
+There is a Beta Test of the PvP phase that launched on September 22nd that is open to the public. Players will gain access via a private key distribution system that will take them to the Steam Store to download a PC or Mac client. The version that is being tested is about 60% complete. By way of comparison, the launch version will be 85% complete when it premiers. 
+
+The point of the Open Beta is to understand player onbaording, multiple rule/balance changes, and engagment metrics. Seeing as this only a test, no wallets will be connected or required to play, nor will any NFTs be needed. 
+
+To get your Open Beta key go [Here](https://waxblockchain.typeform.com/to/U2vf8BrN)
+
+
+ 
 
 # Deprecated Items That No Longer Have Utility 
 *The below listed items will have no further in game use, as a result their value may be greatly diminished.*
