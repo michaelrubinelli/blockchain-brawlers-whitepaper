@@ -86,11 +86,11 @@ Players must also assemble a numerical deck consisting of [Deck Cards](https://w
 
 ## How to Take Part in the PvP Phase
 
-In order to participate in the PvP modes in Blockchain Brawlers just visit the site play.bcbrawlers.com and from there the onboarding into the user experience is self-explanatory. At this time the PvP modes have not formally launched, but can be played via the Open Beta test that is running through the end of September. Please refer to the Beta Testing section on how to gain access to that test phase.    
+In order to participate in the PvP modes in Blockchain Brawlers just visit the site play.bcbrawlers.com and from there the onboarding into the user experience is self-explanatory. At this time the PvP modes have not formally launched, but can be played via the Open Beta test that is running through the end of October. Please refer to the Beta Testing section on how to gain access to that test phase.    
 
 ## Beta Testing
 
-There is a Beta Test of the PvP phase launching on October 7th in a browser that will be open to the public. Players will be provided a URL to the production environment to go and play. This version 1.1.6, is about 70% feature complete. 
+There is a Beta Test of the PvP phase launching on October 7th in a browser that will be open to the public. Players will be provided a URL to the production environment to go and play. This version 1.1.6, is about 70% feature complete. This URL will be widely distributed. For updates on the latest Beta test, please go here [https://discord.com/channels/907624301119819776/1010220653498089633](url)
 
 The point of the browser-based Beta is to understand player onbaording, balance changes, engagment metrics and performance across Chrome, Safari, Firefox and other browsers . Seeing as this only a test, no wallets will be connected or required to play, nor will any NFTs be needed. 
 
