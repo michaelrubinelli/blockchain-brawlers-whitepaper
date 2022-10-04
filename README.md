@@ -90,14 +90,11 @@ In order to participate in the PvP modes in Blockchain Brawlers just visit the s
 
 ## Beta Testing
 
-There is a Beta Test of the PvP phase that launched on September 22nd that is open to the public. Players will gain access via a private key distribution system that will take them to the Steam Store to download a PC or Mac client. The version that is being tested is about 60% complete. By way of comparison, the launch version will be 85% complete when it premiers. 
+There is a Beta Test of the PvP phase launching on October 7th in a browser that will be open to the public. Players will be provided a URL to the production environment to go and play. This version 1.1.6, is about 70% feature complete. 
 
-The point of the Open Beta is to understand player onbaording, multiple rule/balance changes, and engagment metrics. Seeing as this only a test, no wallets will be connected or required to play, nor will any NFTs be needed. 
-
-To get your Open Beta key go [Here](https://waxblockchain.typeform.com/to/U2vf8BrN)
+The point of the browser-based Beta is to understand player onbaording, balance changes, engagment metrics and performance across Chrome, Safari, Firefox and other browsers . Seeing as this only a test, no wallets will be connected or required to play, nor will any NFTs be needed. 
 
 
- 
 
 # Deprecated Items That No Longer Have Utility 
 *The below listed items will have no further in game use, as a result their value may be greatly diminished.*
